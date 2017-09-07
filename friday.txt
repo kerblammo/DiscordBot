@@ -1,0 +1,10 @@
+Friday's Classes - IT2
+
+830-920: COMMS
+920-1030: WEB
+1030-1120: PROG
+1130-1220: PROG
+1230-120: LUNCH
+130-220: C - hw lab | B - spare
+230-320: C - hw lab | B - spare
+330-420: C - hw lab | B - spare
