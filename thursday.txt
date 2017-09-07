@@ -8,3 +8,4 @@ Thursday's Classes - IT2
 130-220: B - hw lab | C - spare
 230-320: B - hw lab | C - spare
 330-420: B - hw lab | C - spare
+ 
